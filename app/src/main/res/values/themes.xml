@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TBCHomeWorkTen" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/navy_blue</item>
+        <item name="colorPrimaryVariant">@color/navy_blue</item>
+        <item name="android:statusBarColor">@color/navy_blue</item>
+    </style>
+
+    <style name="Theme.TBCHomeWorkTen" parent="Base.Theme.TBCHomeWorkTen" />
+
+</resources>
